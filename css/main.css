@@ -1,0 +1,16 @@
+/* @media screen and (min-width: 600px) {
+    body {
+        margin: 100px;
+    }
+} */
+body {
+    font-family: Finlandica, sans-serif;
+    margin: 25px;
+}
+h1, footer {
+    text-align: center;
+}
+footer {
+    font-style: italic;
+    margin-top: 50px;
+}
